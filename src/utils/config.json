@@ -1,0 +1,17 @@
+{
+    "guild_id": "1125326451944738847",
+    "ticket_category_id": "1233428987057803395",
+    "ticket_channel_id": "1233184738710388736",
+    "community_role_id": "1125366325909409832",
+    "bot_admin_role_id": "1233309318623924224",
+    "welcome_channel_id": "1125363834018873436",
+
+    "test_guild_id": "1070804318485233766",
+    "test_ticket_category_id": "1232724511250583676",
+    "test_ticket_channel_id": "1074718558552076469",
+    "test_community_role_id": "1071117063411748935",
+    "test_bot_admin_role_id": "1070804523100143717",
+    "test_welcome_channel_id": "1074718558552076469",
+
+    "owner_user_id": "530689295699148800"
+}
