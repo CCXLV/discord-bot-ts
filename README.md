@@ -1,4 +1,5 @@
 # Discord bot with discord.js & typescript
+discord bot for a server of mine
 
 ## How to set up
 get your discord bot's token and client id and put it in `.env.example` after that rename that file to just `.env`
