@@ -1,4 +1,4 @@
-# Discord bot with discord.js & typescript (switched to discord.py for less memory usage for a simple bot)
+# Discord bot with discord.js & typescript 
 discord bot for a server
 
 ## How to set up
